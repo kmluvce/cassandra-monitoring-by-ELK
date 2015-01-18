@@ -13,6 +13,6 @@ ELK is a good solution for this and provide real time monitoring of clusters nod
 * Input/output statistics
 
 #How to install
-Install all dashboards from dashboards folders in your Kibana
-Install/Run all scripts under scripts folder in your each node of cluster and run cassandra_perf.sh script in cron and send data to Logstash server
-Install/Run cassandra.conf in your Logstash server and send data to elasticsearch server 
+* Install all dashboards from dashboards folders in your Kibana
+* Install/Run all scripts under scripts folder in your each node of cluster and run cassandra_perf.sh script in cron and send data to Logstash server
+* Install/Run cassandra.conf in your Logstash server and send data to elasticsearch server 
