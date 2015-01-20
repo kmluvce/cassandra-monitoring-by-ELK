@@ -5,12 +5,15 @@ Many organisation used cassandra as NoSQL database to handle large amount of dat
 ELK is a good solution for this and provide real time monitoring of clusters nodes.
 
 #Key features
-* Real time monitoring of cluster nodes status
-* CPU statistics.
-* Load on Cluster Nodes
-* Memory stastics
-* CPU Stastics
-* Input/output statistics
+*	Real time monitoring of cluster nodes status
+*	CPU statistics.
+*	Load on Cluster Nodes
+*	Memory statistics
+*	Process Status
+*	Input/output statistics
+*	Pending tasks
+*	Read latency
+*	Write latency
 
 #How to install
 * Install all dashboards from dashboard folder in your Kibana
