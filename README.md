@@ -1,5 +1,5 @@
 # cassandra-monitoring-by-ELK
-Monitoring cassandra cluster by ELK (Elasticsearch , logstach and Kibana) 
+Monitoring cassandra cluster by ELK (Elasticsearch , logstash and Kibana) 
 #Overview
 Many organisation used cassandra as NoSQL database to handle large amount of data. so its necessary to monitor health of cassandra clusters. Cassandra is a famous NoSQL database and there is no any free monitoring tool  available. 
 ELK is a good solution for this and provide real time monitoring of clusters nodes.
